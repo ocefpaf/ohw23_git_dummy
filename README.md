@@ -1,2 +1,3 @@
-# ohw23_git_dummy
-Repo for git practice
+# OHW23 git dummy
+
+Repository for git practice
